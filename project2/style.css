@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.container {
+    padding-top: 50px;
+    margin: auto;
+    width: 400px;
+    text-align: center;
+}
+
+.container h1 {
+    color: rgb(2, 2, 2);
+    margin-bottom: 60px;
+    font-size: 40px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.inputTxt {
+    width: 180px;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+    padding-left: 15px;
+    outline: none;
+    color: rgb(2, 2, 2);
+    font-weight: 500;
+}
+
+.btn {
+    display: block;
+    margin: auto;
+    width: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    height: 30px;
+    font-size: medium;
+    outline: none;
+    border: none;
+    font-weight: 500;
+}
+
+.btn:hover {
+    cursor: pointer;
+    color: whitesmoke;
+    background-color: rgb(20, 181, 245);
+    font-weight: 600;
+}
+
+.showdata {
+    text-decoration: none;
+}
+
+.desc {
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Source Code Pro', monospace;
+    color: black;
+    margin-top: 40px;
+}
+
+.city {
+    font-size: 34px;
+    font-weight: 600;
+    font-family: 'Source Code Pro', monospace;
+    color: black;
+    margin-top: 15px;
+}
+
+.temp {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Source Code Pro', monospace;
+    color: black;
+    margin-top: 15px;
+}
