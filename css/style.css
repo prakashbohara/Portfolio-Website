@@ -16,7 +16,7 @@
            header {
                font-family: 'Exo 2', sans-serif;
                position: relative;
-               background-image: url(/image/homeimage1.png);
+               background-image: url(/PORTFOLIO/image/homeimage1.png);
                background-size: cover;
                background-position: center;
                height: 41rem;
@@ -151,7 +151,7 @@
            }
            
            #project {
-               background-image: url(/image/project.jpg);
+               background-image: url(/PORTFOLIO/image/about.jpg);
                background-position: top;
                background-size: cover;
                width: 100%;
